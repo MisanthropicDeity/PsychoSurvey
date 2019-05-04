@@ -1,5 +1,15 @@
-# vim: set ft=rst:
+This was a Survey devloped for research based purpose in University of Delhi.
 
-See https://help.pythonanywhere.com/ (or click the "Help" link at the top
-right) for help on how to use PythonAnywhere, including tips on copying and
-pasting from consoles, and writing your own web applications.
+Framework used : Django
+pythonanywhere was used for the deployment.
+
+link : https://diety.pythonanywhere.com/
+
+Highlights:
+1. It serves a random question with chice among a question chice matrix of 8X8.
+2. It's unique django model allows collective information of user to pass through different page and finally gets collected in    sqlite database.
+
+
+This was my first web application.
+
+
